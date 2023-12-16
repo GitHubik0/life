@@ -199,7 +199,7 @@ class Human:
             else:
                 self.to_repair()
                 return
-        if manage == 'fuel':
+        if manage = 'fuel':
             print('FUEL!!!!!')
             self.money -= 100
             self.car.fuel += 100
